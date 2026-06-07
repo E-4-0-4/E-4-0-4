@@ -71,18 +71,7 @@ I'm a passionate **Full-Stack Developer** and **Cybersecurity Enthusiast** dedic
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=E-4-0-4&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3b82f6&icon_color=8b5cf6&text_color=c9d1d9&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=E-4-0-4&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3b82f6&text_color=c9d1d9"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=E-4-0-4&theme=tokyonight&hide_border=true&background=0d1117&ring=3b82f6&fire=8b5cf6&currStreakLabel=c9d1d9" width="70%"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=E-4-0-4&theme=tokyonight&no-frame=true&row=1&column=6" width="100%"/>
-
-</div>
 
 ---
 
